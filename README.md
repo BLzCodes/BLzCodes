@@ -1,4 +1,4 @@
-##WALLAHI I DON'T UNDERSTAND SHIT IN GITHUB
+## WALLAHI I DON'T UNDERSTAND SHIT IN GITHUB
 
 <!--
 **BLzCodes/BLzCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
